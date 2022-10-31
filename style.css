@@ -73,7 +73,7 @@
 </head>
 <body>
     <nav class="corSecundaria navbar navbar-expand-lg navbar-light">
-      <a class="navbar-brand textoBranco" href="#">Apiario 2 Irmãos</a>
+      <a class="navbar-brand textoBranco" href="#">MusicaLE</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -85,10 +85,10 @@
         </ul>
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link textoBranco" href="#projetos">CARROS</a>
+            <a class="nav-link textoBranco" href="#projetos">INSTRUMENTOS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link textoBranco" href="#sobre-mim">SOBRE O APIARIO</a>
+            <a class="nav-link textoBranco" href="#sobre-mim">SOBRE A LOJA</a>
           </li>
         </ul>
       </div>
@@ -99,14 +99,14 @@
        <section class="jumbotron text-center corPrimaria">
         <div class="container">
           
-          <h1 class="jumbotron-heading textoBranco">Apiario 2 Irmãos</h1>
+          <h1 class="jumbotron-heading textoBranco">MusicaLE</h1>
   
  <p> <i> Está localizado no centro de Curitiba</i> </p>
 <p><b>Missão</b>: <u>Nossa missão</u> é produzir <i>produtos de qualidade e dar um bom atendimento ao cliente</i> a nossos amigos e clientes.<p>
 <p> Oferecemos <b> pianos, flautas, violinos, violões </b> e muito mais! </p>
 <p> venha para cá e sinta o som! </b> </p>
 
-<p> <b> CONTATO: </b> (42) 98318-9550 </b> </p>
+<p> <b> CONTATO: </b> (42) 9856-5466 </b> </p>
 
 
 
@@ -114,7 +114,7 @@
                     </section>
                     <div class="album py-5 bg-light" id="projetos"> 
                       <div class="container">
-                        <h2 class="jumbotron-heading text-center titulosVerdes">Alguns veículos</h2>
+                        <h2 class="jumbotron-heading text-center titulosVerdes">Alguns instrumentos</h2>
                         <div class="row">
                           <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
@@ -164,7 +164,7 @@
                         alt="Thumbnail [100%x225]" style="height: 225px; width: 100%; display: block;"
                         src="https://www.pastorecc.com.br/site/photos/cars/1401/bg_CYDcw6ICLFkTbiCUaXsv.jpeg" data-holder-rendered="true">
                       <div class="card-body">
-                        <p class="card-text">Fusca 68</p>
+                        <p class="card-text">Flauta</p>
                         <ul>
                           <li>Fede gasolina</li>
                           <li>Devagar</li>
@@ -181,15 +181,15 @@
         <!-- Sobre Mim -->
         <section class="jumbotron text-center corPrimaria" id="sobre-mim">
             <div class="containee">
-              <h2 class="jumbotron-heading titulosBrancos">SOBRE HGZ VEICULOS</h2>
-              <p class="lead textoBranco"> Loja criada no ínicio de 2022, com o intuito de vender diversas variedas de carros antigos. </p>
+              <h2 class="jumbotron-heading titulosBrancos">SOBRE MusicaLE</h2>
+              <p class="lead textoBranco"> Loja criada no ínicio de 2022, com o intuito de trazer a música para perto de você. </p>
             </div>
           </section>
 
 
   <!-- Footer -->
   <footer class="text-center corSecundaria textoFooter">
-    <p class="textoBranco">Copyright 2022 Hgz Veiculos</p>
+    <p class="textoBranco">Copyright 2022 MusicaLE</p>
   </footer>
 </body>
 </html>
